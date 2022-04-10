@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
   container: {
     padding: 20,
     marginTop: Platform.select({
-      ios: 50,
+      ios:40,
       android: 0,
     }),
   },
